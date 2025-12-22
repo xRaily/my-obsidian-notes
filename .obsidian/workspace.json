@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Прочие заметки.md",
+                "file": "00-Inbox/Задачи.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Прочие заметки"
+              "title": "Задачи.md"
             }
           }
         ]
@@ -151,13 +151,23 @@
               "icon": "lucide-ghost",
               "title": "calendar"
             }
+          },
+          {
+            "id": "08fcda9413ae1fca",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,10 +188,10 @@
   },
   "active": "1b2a37165e25ab1f",
   "lastOpenFiles": [
+    "00-Inbox/Прочие заметки.md",
     "00-Inbox/Задачи.md.md",
     "Attachments/Тест123.md",
     "05-Archive/Тест123.md",
-    "00-Inbox/Прочие заметки.md",
     "00-System/🔐 Пароли и доступы.md",
     "00-Inbox/Main Index.md.md",
     "04-Personal/Машины/Фюжн.md",
