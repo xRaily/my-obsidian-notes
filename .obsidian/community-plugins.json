@@ -2,5 +2,6 @@
   "calendar",
   "dataview",
   "meld-encrypt",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian"
 ]
