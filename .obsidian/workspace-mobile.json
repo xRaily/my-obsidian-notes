@@ -11,14 +11,10 @@
             "id": "7dbbebbde0af4f01",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/Задачи.md.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Задачи.md"
+              "title": "New tab"
             }
           }
         ]
@@ -169,9 +165,19 @@
   },
   "active": "7dbbebbde0af4f01",
   "lastOpenFiles": [
+    "00-Inbox/Задачи.md.md",
+    "Attachments/Тест123.md",
+    "05-Archive/Тест123.md",
+    "/Attachments/Тест123.md",
+    "/05-Archive/Тест123.md",
+    "/00-Inbox/Прочие заметки.md",
+    "/00-Inbox/Задачи.md.md",
+    "/00-Inbox",
+    "/Attachments",
+    "/05-Archive",
     "Attachments/Тест.md",
+    "00-System/🔐 Пароли и доступы.md",
     "05-Archive/Тест.md",
-    "00-Inbox/Прочие заметки.md",
-    "00-Inbox/Задачи.md.md"
+    "00-Inbox/Прочие заметки.md"
   ]
 }
