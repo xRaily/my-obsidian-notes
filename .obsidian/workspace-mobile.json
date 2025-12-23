@@ -11,10 +11,14 @@
             "id": "7dbbebbde0af4f01",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/Main Index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Main Index"
             }
           }
         ]
@@ -94,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "00-Inbox/Main Index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -165,19 +170,41 @@
   },
   "active": "7dbbebbde0af4f01",
   "lastOpenFiles": [
-    "00-Inbox/Задачи.md.md",
-    "Attachments/Тест123.md",
-    "05-Archive/Тест123.md",
-    "/Attachments/Тест123.md",
-    "/05-Archive/Тест123.md",
-    "/00-Inbox/Прочие заметки.md",
-    "/00-Inbox/Задачи.md.md",
+    "03-Learning/Автотестирование план.md",
+    "04-Personal/Здоровье/Здоровье.md",
+    "02-Work/Тестирование/Тест-кейсы.md",
+    "02-Work/Автотестирование/Автотестирование.md",
+    "01-Daily/2025-12-22.md",
+    "04-Personal/Цели.md",
+    "03-Learning/Мой учебный план.md",
+    "/03-Learning/Автотестирование план.md",
+    "02-Work/Встречи.md",
+    "/04-Personal/Здоровье/Здоровье.md",
+    "/02-Work/Тестирование/Тест-кейсы.md",
+    "/02-Work/Автотестирование/Автотестирование.md",
+    "/01-Daily/2025-12-22.md",
+    "/04-Personal/Цели.md",
+    "/03-Learning/Мой учебный план.md",
+    "/02-Work/Карьера/Цели.md",
+    "02-Work/Карьера/Цели.md",
+    "/02-Work/Карьера",
+    "/02-Work/Встречи.md",
+    "/01-Daily/2025-12-23.md",
+    "/01-Daily",
+    "/00-Inbox/Main Index.md",
     "/00-Inbox",
-    "/Attachments",
-    "/05-Archive",
-    "Attachments/Тест.md",
-    "00-System/🔐 Пароли и доступы.md",
-    "05-Archive/Тест.md",
-    "00-Inbox/Прочие заметки.md"
+    "02-Work/Тестирование",
+    "/04-Personal/Здоровье",
+    "04-Personal/Здоровье",
+    "/04-Personal",
+    "/02-Work/Тестирование",
+    "/02-Work/Автотестирование",
+    "02-Work/Автотестирование",
+    "02-Work/Проекты.md",
+    "00-Inbox/Main Index.md",
+    "Templates/daily.md",
+    "04-Personal/Хобби и интересы/Аниме/Аниме-лист.md",
+    "03-Learning/English/IT Dictionary.md",
+    "00-Inbox/Задачи.md"
   ]
 }
