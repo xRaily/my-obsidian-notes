@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,9 +190,10 @@
   },
   "active": "8355ad7ec53677c2",
   "lastOpenFiles": [
+    "Без названия.canvas",
+    "00-Inbox/Main Index.md",
     "00-Inbox/Прочие заметки.md",
     "01-Daily/2025-12-23.md",
-    "00-Inbox/Main Index.md",
     "2024-12-23.md",
     "01-Daily/2025-12-22.md",
     "Календарь.md",
@@ -215,7 +217,6 @@
     "Мой учебный план.md",
     "03-Learning/Автотестирование план.md",
     "02-Work/Автотестирование",
-    "Встречи.md",
     "04-Personal/Путешествия",
     "04-Personal/Здоровье",
     "02-Work/База Знаний",
