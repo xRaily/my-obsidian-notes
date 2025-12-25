@@ -21,4 +21,3 @@ where file.name = this.file.name
 - [[Финансы]]
 
 ---
-Обновлено: 25.12.2024

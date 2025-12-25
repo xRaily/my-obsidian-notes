@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Main Index.md",
+                "file": "00-Inbox/Прочие заметки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main Index"
+              "title": "Прочие заметки"
             }
           }
         ]
@@ -190,14 +190,14 @@
   },
   "active": "8355ad7ec53677c2",
   "lastOpenFiles": [
-    "Без названия.canvas",
     "00-Inbox/Main Index.md",
+    "00-Inbox/Задачи.md",
+    "Без названия.canvas",
     "00-Inbox/Прочие заметки.md",
     "01-Daily/2025-12-23.md",
     "2024-12-23.md",
     "01-Daily/2025-12-22.md",
     "Календарь.md",
-    "00-Inbox/Задачи.md",
     "Templates/daily.md",
     "1.md",
     "04-Personal/Финансы/Финансы.md",
