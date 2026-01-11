@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "14a3a051677e845c",
+        "id": "428431a02b44fde2",
         "type": "tabs",
         "children": [
           {
-            "id": "8355ad7ec53677c2",
+            "id": "3d34578e94fcab1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/Прочие заметки.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Прочие заметки"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -188,7 +184,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8355ad7ec53677c2",
+  "active": "ae4875ef03582ce9",
   "lastOpenFiles": [
     "00-Inbox/Main Index.md",
     "00-Inbox/Задачи.md",
