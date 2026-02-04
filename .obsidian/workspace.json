@@ -11,10 +11,12 @@
             "id": "3d34578e94fcab1f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.11.4"
             }
           }
         ]
@@ -184,7 +186,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ae4875ef03582ce9",
+  "active": "3d34578e94fcab1f",
   "lastOpenFiles": [
     "00-Inbox/Main Index.md",
     "00-Inbox/Задачи.md",
