@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "428431a02b44fde2",
+        "id": "af6304186c78cc34",
         "type": "tabs",
         "children": [
           {
-            "id": "3d34578e94fcab1f",
+            "id": "f972fc34a9465f4f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "03-Learning/Тестирование/Тестирование.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.11.4"
+              "icon": "lucide-file",
+              "title": "Тестирование"
             }
           }
         ]
@@ -186,21 +188,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3d34578e94fcab1f",
+  "active": "f972fc34a9465f4f",
   "lastOpenFiles": [
+    "01-Daily/2025-12-23.md",
+    "Templates/daily.md",
+    "01-Daily/2025-12-22.md",
+    "00-Inbox/Прочие заметки.md",
     "00-Inbox/Main Index.md",
     "00-Inbox/Задачи.md",
+    "04-Personal/Цели.md",
+    "05-Archive/Тест123.md",
+    "Attachments/Тест123.md",
+    "03-Learning/Тестирование/Тестирование.md",
+    "03-Learning/Автотестирование план.md",
+    "03-Learning/Тестирование",
     "Без названия.canvas",
-    "00-Inbox/Прочие заметки.md",
-    "01-Daily/2025-12-23.md",
     "2024-12-23.md",
-    "01-Daily/2025-12-22.md",
     "Календарь.md",
-    "Templates/daily.md",
     "1.md",
     "04-Personal/Финансы/Финансы.md",
     "04-Personal/Здоровье/Здоровье.md",
-    "04-Personal/Цели.md",
     "03-Learning/Мой учебный план.md",
     "02-Work/Автотестирование/Автотестирование.md",
     "03-Learning/English/IT Dictionary.md",
@@ -211,9 +218,6 @@
     "Цели.md",
     "Здоровье.md",
     "Автотестирование.md",
-    "Авто тестирование.md",
-    "Мой учебный план.md",
-    "03-Learning/Автотестирование план.md",
     "02-Work/Автотестирование",
     "04-Personal/Путешествия",
     "04-Personal/Здоровье",
@@ -223,7 +227,6 @@
     "04-Personal/Машины",
     "04-Personal/Финансы",
     "04-Personal/Кулинария",
-    "00-System",
     "Pasted image 20240902015005.png",
     "Шпаргалка a3ab65f3cab14dcabea4139bf1e23f96/Untitled 6.png",
     "Шпаргалка a3ab65f3cab14dcabea4139bf1e23f96/Untitled 7.png",
