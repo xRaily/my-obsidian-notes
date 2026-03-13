@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Тестирование"
             }
+          },
+          {
+            "id": "93a7a12fa3ab211b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +201,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f972fc34a9465f4f",
+  "active": "93a7a12fa3ab211b",
   "lastOpenFiles": [
     "01-Daily/2025-12-23.md",
     "Templates/daily.md",
