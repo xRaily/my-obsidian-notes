@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "02-Work/Карьера/Собес.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Собес"
             }
           }
         ],
@@ -205,19 +205,20 @@
   },
   "active": "0ea87397a05ea74a",
   "lastOpenFiles": [
-    "03-Learning/Тестирование/Тестирование.md",
+    "02-Work/Карьера/Легенда и Польза по тестированию.md",
+    "02-Work/Автотестирование/Автотестирование.md",
+    "01-Daily/2025-12-23.md",
+    "00-Inbox/Main Index.md",
+    "00-Inbox/Прочие заметки.md",
+    "Templates/daily.md",
     "Без названия.md",
+    "03-Learning/Тестирование/Тестирование.md",
     "03-Learning/English/IT Dictionary.md",
     "Без названия.canvas",
     "Без названия.base",
     "Без названия 1.base",
     "02-Work/Карьера/Собес.md",
-    "02-Work/Карьера/Легенда и Польза по тестированию.md",
-    "01-Daily/2025-12-23.md",
-    "Templates/daily.md",
     "01-Daily/2025-12-22.md",
-    "00-Inbox/Прочие заметки.md",
-    "00-Inbox/Main Index.md",
     "00-Inbox/Задачи.md",
     "04-Personal/Цели.md",
     "05-Archive/Тест123.md",
@@ -230,7 +231,6 @@
     "04-Personal/Финансы/Финансы.md",
     "04-Personal/Здоровье/Здоровье.md",
     "03-Learning/Мой учебный план.md",
-    "02-Work/Автотестирование/Автотестирование.md",
     "02-Work/Карьера/Цели.md",
     "02-Work/Встречи.md",
     "02-Work/Тестирование/Тест-кейсы.md",
