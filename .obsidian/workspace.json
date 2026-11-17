@@ -25,14 +25,30 @@
             "id": "0ea87397a05ea74a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "00-System/🔐 Пароли и доступы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🔐 Пароли и доступы"
+            }
+          },
+          {
+            "id": "d4363e45417e426c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.13.7"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -52,7 +68,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -199,7 +217,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ea87397a05ea74a",
+  "active": "d4363e45417e426c",
   "lastOpenFiles": [
     "00-System/🔐 Пароли и доступы.md",
     "02-Work/Карьера/Собес.md",
